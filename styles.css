@@ -1,0 +1,43 @@
+body {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 2em;
+    font-family: Helvetica, sans-serif;
+    background-color: #F7F4EA;
+}
+h1 {
+    text-align: center;
+    font-size: 25;
+    color: #F08E60;
+}
+header > div > nav {
+    text-align: center;
+    display: block;
+    margin: 0 auto 0 auto;
+}
+img.image {
+    display: block;
+    margin: 0 auto 0 auto;
+}
+a {
+    color: #7E94D9;
+}
+
+/*Main*/
+p {
+    text-align: center;
+    font-size: 16;
+    color: #F08E60;
+}
+section {
+    color: #8C648C
+}
+section > ol > li {
+    color: #262626;
+}
+section > ul > li {
+    color: #262626;
+}
+main, footer {
+    max-width: 100%;
+}
